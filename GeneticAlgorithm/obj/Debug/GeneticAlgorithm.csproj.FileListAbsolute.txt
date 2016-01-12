@@ -1,0 +1,15 @@
+C:\Users\malvo_000\Desktop\Dropbox\Hogeschool Rotterdam - Giulia\2014-15 - OP4 - Data mining\Practicum opdrachten\Genetic Algorithms - Main loop code\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\malvo_000\Desktop\Dropbox\Hogeschool Rotterdam - Giulia\2014-15 - OP4 - Data mining\Practicum opdrachten\Genetic Algorithms - Main loop code\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\malvo_000\Desktop\Dropbox\Hogeschool Rotterdam - Giulia\2014-15 - OP4 - Data mining\Practicum opdrachten\Genetic Algorithms - Main loop code\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\malvo_000\Desktop\Dropbox\Hogeschool Rotterdam - Giulia\2014-15 - OP4 - Data mining\Practicum opdrachten\Genetic Algorithms - Main loop code\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\malvo_000\Desktop\Dropbox\Hogeschool Rotterdam - Giulia\2014-15 - OP4 - Data mining\Practicum opdrachten\Genetic Algorithms - Main loop code\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\INFDTA01-2\GeneticAlgorithm\bin\Debug\datasetfig6-7.csv
+\\psf\Home\Documents\Visual Studio 2012\Projects\INFDTA01-2\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\INFDTA01-2\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\INFDTA01-2\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\INFDTA01-2\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\INFDTA01-2\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\INFDTA01-2\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2012\Projects\INFDTA01-2_GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+\\psf\Home\Documents\Visual Studio 2012\Projects\INFDTA01-2_GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+\\psf\Home\Documents\Visual Studio 2012\Projects\INFDTA01-2_GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
